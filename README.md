@@ -7,4 +7,10 @@ _This is for italic_
 <br/>
 Unordered list
 <br/>
+- List 1
+- List 2
+- List 3
+- List 4
+- List 5
+
 I have started learning Git Hub and their functionalities
